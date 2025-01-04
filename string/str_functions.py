@@ -9,7 +9,7 @@ print(f"Length of the string: {length}")
 lowercase_string = my_string.lower()
 print(f"Lowercase: {lowercase_string}")
 
-# 3. upper() - Convert string to uppercase
+# 3. upper() - Convert string to uppercasen
 uppercase_string = my_string.upper()
 print(f"Uppercase: {uppercase_string}")
 
@@ -41,3 +41,7 @@ print(f"Occurrences of 'l': {count}")
 # 10. format() - Format string using placeholders
 formatted_string = "My name is {} and I am {} years old.".format("John", 30)
 print(f"Formatted string: {formatted_string}")
+
+# escape sequence
+new_line = "Bhagya is a god girl\nshe is from sarathigada"
+print(new_line)
