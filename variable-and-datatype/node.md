@@ -4,4 +4,8 @@
 - List : [1, 2, 3, [9, 10]]
 - Tuple : (1, 'spam', 4, 'U')
 - Dictionary : {'food' : 'spam', 'taste' : 'yum'}, dict(hours = 10)
-- 
+- Boolean : True, False
+- None : None
+- File : open(filename.txt), open(r'C:\Users','wb')
+- functions, modules, classes
+- Advanced : Decorators, Generators, Iterators, MetaProgrammings
